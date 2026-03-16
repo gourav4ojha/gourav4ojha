@@ -203,7 +203,7 @@ I am a passionate **Full Stack Developer** with expertise in the **MERN stack**,
 
 I'm always open to collaborating on interesting projects, discussing new technologies, or just having a chat about development!
 
-* 📧 **Email:** [Contact Me](mailto:gouravvishwakarma@example.com)
+* 📧 **Email:** [Contact Me](mailto:gouravvishwakarma@gmail.com)
 * 💼 **LinkedIn:** [gourav-ojha-198176231](https://www.linkedin.com/in/gourav-ojha-198176231/)
 * 🏆 **LeetCode:** [Gourav_vishwakarma](https://leetcode.com/u/Gourav_vishwakarma/)
 * 💻 **GitHub:** [@gourav4ojha](https://github.com/gourav4ojha)
